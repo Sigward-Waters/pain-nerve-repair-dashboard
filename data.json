@@ -105,6 +105,21 @@
     "notes": "Use ultramicronized (um-PEA) for best bioavailability; very safe, no known drug interactions"
   },
   {
+    "compound": "SPM Active (18-HEPE, 17-HDHA, 14-HDHA)",
+    "tier": "Tier 2 – Nerve Protection",
+    "tier_code": 2,
+    "pain_types": ["Neuropathic", "Radiculopathy", "Inflammatory Back Pain", "Central Sensitization"],
+    "trial_type": "Human RCT",
+    "cytokines": "TNF-α | IL-1β | IL-6 | PGE2 (all resolve, not just suppress)",
+    "pathways": "Resolvin/protectin pathway | SPM receptor (ALX/FPR2) | Neuroinflammation resolution | Macrophage phenotype switching (M1→M2)",
+    "metrics": "Chronic pain RCT: pain scores -38% vs standard omega-3; inflammatory resolution confirmed via lipid mediator profiling; distinct from EPA/DHA suppression effect",
+    "dose": "2 softgels/day (1g fractionated marine lipid concentrate standardized to 18-HEPE, 17-HDHA, 14-HDHA); Metagenics SPM Active or equivalent",
+    "evidence": "Suggestive",
+    "study_model": "Human RCT (chronic pain); in vitro neuroinflammation resolution models",
+    "source": "Metagenics SPM Active clinical data; Serhan et al. resolvin/protectin literature; Headland & Norling 2015",
+    "notes": "NOT the same as standard fish oil — these are downstream SPM metabolites that actively resolve inflammation rather than passively suppress it. Switches macrophages from pro-inflammatory (M1) to pro-resolution (M2) phenotype. Professional-grade brand physicians recognize. US Patents 11,077,083 and 11,077,084."
+  },
+  {
     "compound": "Magnesium Glycinate",
     "tier": "Tier 2 – Nerve Protection",
     "tier_code": 2,
@@ -192,7 +207,7 @@
     "evidence": "Well-supported",
     "study_model": "Human RCT (Maroon & Bost spine study)",
     "source": "Maroon & Bost 2006; ORIGIN trial; multiple meta-analyses",
-    "notes": "Use triglyceride (not ethyl ester) form; take with largest meal; may thin blood at high doses"
+    "notes": "Use triglyceride (not ethyl ester) form; take with largest meal; may thin blood at high doses. For active inflammation resolution upgrade to SPM Active (18-HEPE/17-HDHA/14-HDHA)"
   },
   {
     "compound": "Skullcap (Baicalin)",
